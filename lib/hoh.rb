@@ -31,7 +31,7 @@ PORTION_4 = {
 }
 
 def naming_system
- world = {
+ species = {
     label: "Kingdom",
       sub_category: {
         label: "Phylum",
@@ -53,5 +53,5 @@ def naming_system
         }
       }
    }
-world
+species
 end
