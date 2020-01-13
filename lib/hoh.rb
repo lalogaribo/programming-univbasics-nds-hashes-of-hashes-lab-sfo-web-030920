@@ -55,4 +55,10 @@ def naming_system
 #       }
 #   }
 # species
+
+species = PORTION_1
+ species[:sub_category][:sub_category][:sub_category] = PORTION_2
+ species[:sub_category][:sub_category][:sub_category][:sub_category] = PORTION_3
+ species[:sub_category][:sub_category][:sub_category][:sub_category][:sub_category][:sub_category]  = PORTION_4
+species
 end
